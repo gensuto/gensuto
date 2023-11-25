@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Linke to my [website](https://gensuto.github.io) 😁
+## Link to my [website](https://gensuto.github.io) 😁
 
 <!--
 **gensuto/gensuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
