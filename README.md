@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Link to my [website](https://gensuto.github.io) 😁
-
+## Link to repository of [The Practical Guides for Medical Large Language Models](https://github.com/gensuto/MedLLMsPracticalGuide.git)
 <!--
 **gensuto/gensuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
